@@ -13,7 +13,7 @@
     "lil-gui": "^0.18.2",
     "stats.js": "^0.17.0",
     "three": "^0.155.0",
-    "vue": "^3.3.4",
+    "vue": "^3.5.44",
     "vue-router": "^4.2.4"
   },
   "devDependencies": {
